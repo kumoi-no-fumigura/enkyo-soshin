@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/enkyo-soshin",
  "yomi": "えんきょうりょうきょうそちんじょう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（訴陳状）",
+  "era": "延慶年間（1308〜1311）",
+  "author": "二条為世・京極為兼",
+  "desc": "勅撰集の撰者をめぐって二条為世と京極為兼が互いに訴え合った訴状・陳状の要点を抄出したもの。撰者の家柄や先例をめぐる両家の対立を伝える。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -94,6 +99,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
